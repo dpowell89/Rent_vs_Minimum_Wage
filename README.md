@@ -14,13 +14,10 @@ My initial approach to this project was to see how much annually and monthly a p
 
 ### Steps
 #### Calculations 
- 1. First step for me was to go through and decide on what cities/states
-    that I wanted to work on for this project. I initially only wanted
-    to do Nashville, TN but then branched out and included Los Angeles, CA and Austin, TX. 
-    	2. Step two was to go through and see how good/clean the data I had on minimum wage on those areas. Once that was done I would then move towards calculating their weekly paychecks (40 hours/week), monthly paychecks (weekly paycheck * 4), then their annual salary (weekly paycheck * 52). All of these numbers are pre-tax.
-    	3. Step three was to then look at the cities themselves and go in and calculate the average rent for the year, spanning from
-    2011-2018. I would take the data at hand then average out the 12
-    months for the year which would then give me the average rent for a one bedroom apartment in that city.
+
+ 1. First step for me was to go through and decide on what cities/states that I wanted to work on for this project. I initially only wanted to do Nashville, TN but then branched out and included Los Angeles, CA and Austin, TX.
+ 2. Step two was to go through and see how good/clean the data I had on minimum wage on those areas. Once that was done I would then move towards calculating their weekly paychecks (40 hours/week), monthly paychecks (weekly paycheck * 4), then their annual salary (weekly paycheck * 52). All of these numbers are pre-tax.
+ 3. Step three was to then look at the cities themselves and go in and calculate the average rent for the year, spanning from 2011-2018. I would take the data at hand then average out the 12 months for the year which would then give me the average rent for a one bedroom apartment in that city.
 
 #### Logic 
 	
